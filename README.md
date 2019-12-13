@@ -15,4 +15,4 @@ This is Hello HTML.
  0. [ Hello HTML ](https://github.com/Hidayat-rivai/html)
  1. [ Heading ](https://github.com/Hidayat-rivai/html_heading)
  2. [ Paragraphs ](https://github.com/Hidayat-rivai/html_paragraphs)
- 3. [ Paragraphs ](https://github.com/Hidayat-rivai/html_paragraphs)
+ 3. [ Formatting Text ](https://github.com/Hidayat-rivai/html_formatting_text)
