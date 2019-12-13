@@ -18,3 +18,4 @@ This is Hello HTML.
  3. [ Formatting Text ](https://github.com/Hidayat-rivai/html_formatting_text)
  4. [ Hyperlink ](https://github.com/Hidayat-rivai/html_hyperlink)
  5. [ Image ](https://github.com/Hidayat-rivai/html_image)
+ 6. [ Comment ](https://github.com/Hidayat-rivai/html_comment)
