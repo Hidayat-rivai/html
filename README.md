@@ -19,3 +19,4 @@ This is Hello HTML.
  4. [ Hyperlink ](https://github.com/Hidayat-rivai/html_hyperlink)
  5. [ Image ](https://github.com/Hidayat-rivai/html_image)
  6. [ Comment ](https://github.com/Hidayat-rivai/html_comment)
+ 7. [ Table ](https://github.com/Hidayat-rivai/html_table)
