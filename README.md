@@ -30,8 +30,9 @@ This is Hello HTML.
  15. [ Input Attribute ](https://github.com/Hidayat-rivai/html_input_atribut)
  16. [ Datalist ](https://github.com/Hidayat-rivai/html_datalist)
  17. [ Label ](https://github.com/Hidayat-rivai/html_label)
- 18. [ text_area ](https://github.com/Hidayat-rivai/html_textarea)
+ 18. [ Text_area ](https://github.com/Hidayat-rivai/html_textarea)
  19. [ Button ](https://github.com/Hidayat-rivai/html_button)
  20. [ Hr ](https://github.com/Hidayat-rivai/html_hr)
  21. [ Div ](https://github.com/Hidayat-rivai/html_div)
+ 22. [ Entity ](https://github.com/Hidayat-rivai/html_entity)
 
