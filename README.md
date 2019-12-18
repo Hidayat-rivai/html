@@ -35,4 +35,5 @@ This is Hello HTML.
  20. [ Hr ](https://github.com/Hidayat-rivai/html_hr)
  21. [ Div ](https://github.com/Hidayat-rivai/html_div)
  22. [ Entity ](https://github.com/Hidayat-rivai/html_entity)
+ 23. [ Figure ](https://github.com/Hidayat-rivai/html_figure)
 
