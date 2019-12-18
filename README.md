@@ -37,4 +37,5 @@ This is Hello HTML.
  22. [ Entity ](https://github.com/Hidayat-rivai/html_entity)
  23. [ Figure ](https://github.com/Hidayat-rivai/html_figure)
  24. [ Audio ](https://github.com/Hidayat-rivai/html_audio)
+ 25. [ Video ](https://github.com/Hidayat-rivai/html_video)
 
