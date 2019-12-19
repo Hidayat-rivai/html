@@ -39,4 +39,5 @@ This is Hello HTML.
  24. [ Audio ](https://github.com/Hidayat-rivai/html_audio)
  25. [ Video ](https://github.com/Hidayat-rivai/html_video)
  26. [ Progress ](https://github.com/Hidayat-rivai/html_progress)
+ 27. [ Semantic Element ](https://github.com/Hidayat-rivai/html_semantic_element)
 
