@@ -7,7 +7,7 @@ What i post here, will be pure HTML.
 
 This is Hello HTML. 
 
-### HTML
+## HTML
   - Tools : Web Browser (Chrome), Text Editor (Notepad++), Web Server for Chrome
   - Year : 2019
 
@@ -41,3 +41,5 @@ This is Hello HTML.
  26. [ Progress ](https://github.com/Hidayat-rivai/html_progress)
  27. [ Semantic Element ](https://github.com/Hidayat-rivai/html_semantic_element)
 
+## Task
+ 1. [ Tugas 1 ](https://github.com/Hidayat-rivai/html_tugas_1)
